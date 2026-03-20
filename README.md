@@ -11,7 +11,8 @@
 🚀 **Building scalable DevOps pipelines and cloud-native automation**  
 
 🔹 AWS, CI/CD, Docker, and Infrastructure as Code
-🔹 Exploring **Linux and Monitoring Tools**  
+
+🔹 Linux and Monitoring Tools
 🔹 Sharing progress and knowledge through GitHub and Hashnode  
 
 ---
