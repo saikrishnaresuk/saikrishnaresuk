@@ -8,11 +8,11 @@
 
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
-🚀 **Passionate about building scalable DevOps pipelines and cloud-native automation**  
+🚀 **Building scalable DevOps pipelines and cloud-native automation**  
 
-🔹 Learning **AWS, CI/CD, Docker, and Infrastructure as Code**  
+🔹 AWS, CI/CD, Docker, and Infrastructure as Code
 🔹 Exploring **Linux and Monitoring Tools**  
-🔹 Sharing progress and knowledge through **GitHub and Hashnode**  
+🔹 Sharing progress and knowledge through GitHub and Hashnode  
 
 ---
 
