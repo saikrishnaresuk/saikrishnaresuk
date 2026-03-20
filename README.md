@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sai Krishna</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Engineer;Cloud+%7C+Automation+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+%7C+Automation+Enthusiast;" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
